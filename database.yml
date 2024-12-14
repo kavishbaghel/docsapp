@@ -1,9 +1,0 @@
----
-development:
-  url: {{env "TEST_DATABASE_URL"}}
-
-# test:
-#   url: {{env "TEST_DATABASE_URL"}}
-
-# production:
-#   url: {{env "DATABASE_URL"}}
